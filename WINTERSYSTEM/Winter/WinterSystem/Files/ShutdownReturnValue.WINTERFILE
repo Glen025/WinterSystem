@@ -1,9 +1,0 @@
-0x00000000 - Exit with unknown error
-0x00000009 - The user operated "Shutdown"
-0x00000013 - System files not found
-0x00000017 - Exit on boot
-0x00000025 - UNKNOWN
-0x66666666 - U?K!OW????
-0xFFFFFFFF - ERR?R
-"Number"   - The return value entered by the user
-"Null"	   - The process crashes or is forcibly shut down
